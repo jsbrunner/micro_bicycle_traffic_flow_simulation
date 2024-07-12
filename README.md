@@ -69,3 +69,9 @@ plot_simulation(model,
                 check_cyclist_id = -1, 
                 animation_filename = "model")
 ```
+
+## Citation
+Please cite this article if you use this model in your work:
+Brunner, J. S., Ni, Y.-C., Kouvelas, A., & Makridis, M. A. (2024). Microscopic simulation of bicycle traffic flow incorporating cyclists’ heterogeneous dynamics and non-lane-based movement strategies. Simulation Modelling Practice and Theory, 135, 102986.
+https://doi.org/10.1016/j.simpat.2024.102986
+
