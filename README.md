@@ -1,6 +1,6 @@
 # A Microscopic Bicycle Traffic Flow Simulation Model Incorporating Cyclists' Heterogeneous Dynamics and Non-lane-based Movement Strategies
 Johannes S. Brunner, Ying-Chuan Ni <br />
-Traffic Engineering Group, Institute for Transport Planning and Systems, ETH Zürich
+Traffic Engineering Group, Institute for Transport Planning and Systems, ETH Zurich
 
 ## Required Python packages
 - Mesa
